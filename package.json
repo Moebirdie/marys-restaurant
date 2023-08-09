@@ -1,0 +1,22 @@
+{
+  "name": "marys-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moebirdie/marys-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moebirdie/marys-restaurant/issues"
+  },
+  "homepage": "https://github.com/Moebirdie/marys-restaurant#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
